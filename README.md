@@ -8,7 +8,7 @@ O projeto está dividido em três fases:
 
 ### Fase I - Análise de Utilizadores e Tarefas
 - Análise de aplicações e sistemas relacionados
-- Investigação de utilizadores através de questionários
+- Análise do público alvo através de questionários
 - Análise PACT e criação de personas
 - Desenvolvimento de cenários de atividade
 - Identificação de funcionalidades principais
