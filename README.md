@@ -27,10 +27,17 @@ O projeto está dividido em três fases:
 
 ## Entregáveis
 
-Cada fase inclui os seguintes entregáveis:
-- Slides da apresentação
-- Relatório detalhado
-- Materiais de suporte (protótipos, dados de avaliação, etc.)
+### Fase I
+- [Relatório](Relatório IPC - Fase 1.pdf)
+- [Apresentação](Apresentação IPC - Fase 1.pdf)
+
+### Fase II
+- [Relatório](Relatório IPC - Fase 2.pdf)
+- [Apresentação](Apresentação IPC - Fase 1.pdf)
+
+### Fase III
+- [Relatório](Relatório IPC - Fase 1.pdf)
+- [Apresentação](Apresentação IPC - Fase 1.pdf)
 
 ## Apresentação Final
 
