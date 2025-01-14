@@ -1,30 +1,35 @@
-# Human Computer Interaction 2024-2025 Group Project
+# Projeto de Interação Pessoa-Computador 2024-2025
 
-This repository contains the deliverables and documentation for the HCI Group Project (2024-2025). The project focuses on designing an innovative user interface for energy management, addressing challenges such as monitoring energy usage, reducing consumption, and controlling smart appliances.
+Este repositório contém os entregáveis e documentação do Projeto de Grupo de IPC (2024-2025). O projeto centra-se no desenvolvimento de uma interface de utilizador para gestão de energia, abordando desafios como monitorização do consumo energético, redução do consumo e controlo de aparelhos inteligentes.
 
-## Project Overview
+## Visão Geral do Projeto
 
-The project is divided into three phases:
+O projeto está dividido em três fases:
 
-### Phase I - User and Task Analysis
-- Analysis of related applications and systems
-- User research through questionnaires
-- PACT analysis and persona creation
-- Development of activity scenarios
-- Identification of key functionalities
+### Fase I - Análise de Utilizadores e Tarefas
+- Análise de aplicações e sistemas relacionados
+- Investigação de utilizadores através de questionários
+- Análise PACT e criação de personas
+- Desenvolvimento de cenários de atividade
+- Identificação de funcionalidades principais
 
-### Phase II - Lo-fi Prototype & Evaluation
-- Definition of core tasks and usability requirements
-- Development of low-fidelity prototype
-- Conducting heuristic evaluations
-- Analysis of evaluation results
+### Fase II - Protótipo de Baixa Fidelidade e Avaliação
+- Definição de tarefas principais e requisitos de usabilidade
+- Desenvolvimento de protótipo de baixa fidelidade
+- Realização de avaliações heurísticas
+- Análise dos resultados da avaliação
 
-### Phase III - Hi-fi Prototype & Testing
-- Development of high-fidelity prototype
-- User evaluation protocol design
-- Conducting user testing
-- Statistical analysis of results
+### Fase III - Protótipo de Alta Fidelidade e Testes
+- Desenvolvimento de protótipo de alta fidelidade
+- Design do protocolo de avaliação com utilizadores
+- Realização de testes com utilizadores
+- Análise estatística dos resultados
 
-## Course Information
+## Entregáveis
 
-For more details about the course, visit the [Human Computer Interaction course page](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541887).
+Cada fase inclui os seguintes entregáveis:
+- Slides da apresentação
+- Relatório detalhado
+- Materiais de suporte (protótipos, dados de avaliação, etc.)
+
+Para mais detalhes sobre a UC, visite a [página de Interação Pessoa-Computador](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541887).
