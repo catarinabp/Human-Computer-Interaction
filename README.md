@@ -28,8 +28,7 @@ O projeto está dividido em três fases:
 ## Entregáveis
 
 ### Fase I
-- [Relatório](./Relatório%20IPC%20-%20Fase%201.pdf)
-- [Apresentação](./Apresentação%20IPC%20-%20Fase%201.pdf)
+- [Relatório](Relat%C3%B3rio%20IPC%20-%20Fase%201.pdf)
 
 
 ### Fase II
